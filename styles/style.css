@@ -1,4 +1,10 @@
 body {
+    /* Lavendar Web */
+    background-color: #DBDAEA;
+
     /* Google Fonts */
-    font-family: 'Secular One', sans-serif;
+    font-family: 'Grandstander', cursive;
+
+    /* Space Cadet - Dark Purple */
+    color: #2E294E;
 }
