@@ -5,9 +5,10 @@ Hours Calculator
 To Do
 -----
 - Style.
+- Fonts
 - Reset time input on button press.
 - Add seconds.
-- Add remove.
+- Add remove. (Add id to row on creation and event listener linked remover button)
 - Make table scrollable.
 
 Possible Ideas
@@ -19,4 +20,3 @@ Possible Ideas
 Testing
 -------
 - Clicking without entering a number (NaN?).
-
