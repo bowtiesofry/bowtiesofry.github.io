@@ -2,16 +2,17 @@ Hours Calculator
 ================
 - Web app to calculate hours worked.
 
+Currently Working on
+--------------------
+- removeHours() function for the table row's remove buttons.
+
 To Do
 -----
 [x] Style.
-[x] Fonts
-[ ] Reset time input on button press.
+[x] Fonts.
+[x] Reset time input on button press.
 [x] Add seconds.
-[ ] Make table fill with most recent at the top
-[ ] Add remove. (Add id to row on creation and event listener linked remover button)
-[ ] Make table scrollable ?
-[ ] Clear up confusing variable names. - e.g hoursCount.
+[x] Add remove. (Add id to row on creation and event listener linked remover button).
 
 Possible Ideas
 --------------
@@ -21,6 +22,7 @@ Possible Ideas
 
 Testing
 -------
-- Clicking without entering a number (NaN?).
-- Test when zero hours are submitted.
-- Adding unexpected user input. e.g "Five" hours.
+[x] Clicking without entering a number (NaN?).
+[x] Test when zero hours are submitted.
+[x] Adding unexpected user input. e.g "Five" hours.
+[x] Total hours Update methods with minus values.
